@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Monster Abra A7 V13.2.3 Intel Core I5-11400h 16gb Ram 500gb Ssd 4gb",
+    "price": 17819,
+    "image": "https://cdn.dsmcdn.com/ty518/product/media/images/20220826/13/165993243/230886343/1/1_org_zoom.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Apple Macbook Air 13'' M1 8gb 256gb Ssd Gümüş MGN93TU/A",
+    "price": 19949,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty437/product/media/images/20220519/10/113459570/117794442/1/1_org_zoom.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Huawei Matebook D15 AMD Ryzen 5 5500U 8GB 512GB SSD",
+    "price": 10669,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty318/product/media/images/20220202/14/41808255/378512354/1/1_org_zoom.jpg"},
+  {
+    "id": 4,
+    "title": "ASUS Tuf Gaming A15 Fa507rc-hn058 Ryzen 7 6800h 16gb Ram ",
+    "price": 17933,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty432/product/media/images/20220517/9/112491760/480965437/1/1_org_zoom.jpg"},
+  {
+    "id": 5,
+    "title": "LENOVO V14 G2 Alc Ryzen 5 5500u 8gb 512gb Ssd 14'' Fhd Windows 10 Home",
+    "price": 8229,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty250/product/media/images/20211119/9/526742/317924722/1/1_org_zoom.jpg"
+  },
+  {
+    "id": 6,
+    "title": "HP 4h262ea/celeron N4500/4gb Ram/256gb Ssd/15.6 wın10h Gaming Laptop",
+    "price": 4494,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty426/product/media/images/20220510/15/109049923/476642896/1/1_org_zoom.jpg" },
+  {
+    "id": 7,
+    "title": "ACER A315-34 IntelCeleron-4020 4GB 128GBSSD 15,6'' Siyah Dizüstü Bilgisayar",
+    "price": 3698,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty491/product/media/images/20220725/9/149428581/524078923/2/2_org_zoom.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Casper Excalibur G770.1140-bvj0x-b Intel Core I5-11400h 16gb Ram 500gb Nvme Ssd",
+    "price": 15538,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty521/product/media/images/20220831/12/167059953/189726054/1/1_org_zoom.jpg"},
+  {
+    "id": 9,
+    "title": "Huawei Matebook D14 2021 Intel Core i5 10210U 8GB Ram 512GB Ssd ",
+    "price": 10572,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty276/product/media/images/20211223/12/15470559/343738657/1/1_org_zoom.jpg"},
+  {
+    "id": 10,
+    "title": "Apple Macbook Pro 13 M1 8gb 256gb Ssd Uzay Grisi Dizüstü Bilgisayar ",
+    "price": 22000,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty437/product/media/images/20220519/11/113491740/129690931/2/2_org_zoom.jpg"},
+  {
+    "id": 11,
+    "title": "ACER Swift 3 SF314-511 EVO i5-1135G7 8GB 512GB SSD 14'Uzay Grisi'",
+    "price": 9299,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty484/product/media/images/20220719/13/145591574/485878214/2/2_org_zoom.jpg"},
+  {
+    "id": 12,
+    "title": "HP Victus 16-e1005nt 68s21ea Ryzen 7 6800h 16gb Ram 512gb Ssd 4gb ",
+    "price": 18619,
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty491/product/media/images/20220726/16/150067418/528969372/1/1_org_zoom.jpg"}
+]
